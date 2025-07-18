@@ -1,16 +1,6 @@
-# 👋 Hey there, I'm Kevs Bruce!
+# 👋 Hey there, You can call me Kevs!
 
-Welcome to my GitHub! I'm a passionate **full-stack developer**, tech enthusiast, and SaaS builder based in the 🌴 Philippines. I love creating tools that solve real-world problems, especially for freelancers, entrepreneurs, and small businesses.
-
----
-
-## 🚀 What I'm Working On
-
-- 🛠️ **QuoteBee** – A proposal & quotation builder for service providers  
-- 🧠 **Freelancer CRM** – Manage clients, invoices, and projects in one place  
-- 🏘️ **RentRoster** – Rental property management system  
-- 🧮 **Inventory Pro** – SaaS inventory system for growing businesses  
-- 🪑 **SeatPlanr** – Smart classroom seating arrangements & attendance  
+Welcome to my GitHub! I'm a passionate **Full-Stack Developer**, tech enthusiast based in the Philippines. I love web applications that solve real-world problems, especially for freelancers, entrepreneurs, and small businesses.
 
 ---
 
@@ -31,6 +21,11 @@ Welcome to my GitHub! I'm a passionate **full-stack developer**, tech enthusiast
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=fff)
 
 ---
+
+## 🧪 Previous Projects
+
+- 💰 [**Monetra**](https://monetra.vercel.app) – A simple and elegant budgeting app to track your expenses and savings.  
+- 🏗️ [**Kaha Construction**](https://kahaconstruction.com) – A modern construction company website built with performance and branding in mind.
 
 ## 📫 Let's Connect
 
