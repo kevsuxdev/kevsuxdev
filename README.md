@@ -40,14 +40,6 @@ Welcome to my GitHub! I'm a passionate **full-stack developer**, tech enthusiast
 
 ---
 
-## 📈 GitHub Stats
-
-![Kevs's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevsuxdev&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevsuxdev&layout=compact&theme=radical)
-
----
-
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 Thanks for stopping by! 😊
