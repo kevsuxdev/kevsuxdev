@@ -1,10 +1,16 @@
-# 👋 Hey there, You can call me Kevs!
+<h2 align="center">Hi 👋, I'm Kevs</h2>
 
-Welcome to my GitHub! I'm a passionate **Full-Stack Developer**, tech enthusiast based in the Philippines. I love web applications that solve real-world problems, especially for freelancers, entrepreneurs, and small businesses.
+<p align="center">
+  <strong>Full Stack Developer</strong> • <strong>Problem Solver</strong> • <strong>Turning Ideas into Real Products</strong>
+</p>
+
+<p align="center">
+   I build sleek, scalable, and smart web apps — from backend logic to pixel-perfect UI.
+</p>
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff)
@@ -25,16 +31,19 @@ Welcome to my GitHub! I'm a passionate **Full-Stack Developer**, tech enthusiast
 
 ---
 
-## 🧪 Previous Projects
+## Previous Projects
 
-- 💰 [**Monetra**](https://monetra.vercel.app) – A simple and elegant budgeting app to track your expenses and savings.  
-- 🏗️ [**Kaha Construction**](https://kahaconstruction.com) – A modern construction company website built with performance and branding in mind.
+💰 [**Monetra**](https://monetra.vercel.app) – A simple and elegant budgeting app to track your expenses and savings.  
 
-## 📫 Let's Connect
+🏗️ [**Kaha Construction**](https://kahaconstruction.com) – A modern construction company website built with performance and branding in mind.
 
-- 🌐 Portfolio: [Kevs Dev](https://kevsuxdev.vercel.app)  
-- 📩 Email: markkevinromero.work@gmail.com  
-- 💼 LinkedIn: [Mark Kevin Romero](https://www.linkedin.com/in/mark-kevin-romero-6951a3284)
+## Let's Connect
+
+🌐 Portfolio: [Kevs Dev](https://kevsuxdev.vercel.app)  
+
+📩 Email: markkevinromero.work@gmail.com  
+
+💼 LinkedIn: [Mark Kevin Romero](https://www.linkedin.com/in/mark-kevin-romero-6951a3284)
 
 ---
 
