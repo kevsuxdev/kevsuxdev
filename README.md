@@ -43,8 +43,6 @@
 
 📩 Email: markkevinromero.work@gmail.com  
 
-💼 LinkedIn: [Mark Kevin Romero](https://www.linkedin.com/in/mark-kevin-romero-6951a3284)
-
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
