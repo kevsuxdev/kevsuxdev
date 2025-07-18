@@ -33,7 +33,7 @@
 
 ## Previous Projects
 
-💰 [**Monetra**](https://monetra.vercel.app) – A simple and elegant budgeting app to track your expenses and savings.  
+💰 [**Monetra**](https://monetraa.vercel.app) – A modern finance tracking dashboard that lets you create wallet-based budgets, collaborate through shared wallets, and gain clear insights into your expenses and savings.
 
 🏗️ [**Kaha Construction**](https://kahaconstruction.com) – A modern construction company website built with performance and branding in mind.
 
