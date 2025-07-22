@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Kevs 👋</h1>
 
 <p align="center">
-  <strong>Full Stack Developer</strong> • <strong>Problem Solver</strong> • <strong>Turning Ideas into Real Products</strong>
+  <strong>Full Stack Developer</strong> • <strong>Turning Ideas into Real Products</strong>
 </p>
 
 <p align="center">
