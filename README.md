@@ -28,17 +28,3 @@
 ![Prisma ORM](https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=fff)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=fff)
 ![Zustand](https://img.shields.io/badge/Zustand-8B4513?style=for-the-badge&logo=Zustand&logoColor=white)
-
----
-
-## Let's Connect
-
-🌐 Portfolio: [Kevs Dev](https://kevsuxdev.vercel.app)  
-
-📩 Email: markkevinromero.work@gmail.com  
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
-Thanks for stopping by! 😊
