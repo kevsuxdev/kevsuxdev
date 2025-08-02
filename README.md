@@ -29,16 +29,7 @@
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=fff)
 ![Zustand](https://img.shields.io/badge/Zustand-8B4513?style=for-the-badge&logo=Zustand&logoColor=white)
 
-
 ---
-
-## Previous Projects
-
-💰 [**Monetra**](https://monetraa.vercel.app) – A modern finance tracking dashboard that lets you create wallet-based budgets, collaborate through shared wallets, and gain clear insights into your expenses and savings.
-
-📊 [**Funday**](#) - A simple yet effective savings and expense tracker that helps users monitor where their money goes and build better financial habits.
-
-☕ [**Cassa Coffea**](#) - A POS and ordering management system designed for coffee shops, built as a school project to streamline cashier operations and order tracking.
 
 ## Let's Connect
 
