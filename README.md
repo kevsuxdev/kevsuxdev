@@ -36,8 +36,6 @@
 
 💰 [**Monetra**](https://monetraa.vercel.app) – A modern finance tracking dashboard that lets you create wallet-based budgets, collaborate through shared wallets, and gain clear insights into your expenses and savings.
 
-🏗️ [**Kaha Construction**](https://kahaconstruction.com) – A modern construction company website built with performance and branding in mind.
-
 📊 [**Funday**](#) - A simple yet effective savings and expense tracker that helps users monitor where their money goes and build better financial habits.
 
 ☕ [**Cassa Coffea**](#) - A POS and ordering management system designed for coffee shops, built as a school project to streamline cashier operations and order tracking.
