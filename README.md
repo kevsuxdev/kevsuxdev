@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-   I build sleek, scalable, and smart web apps — from backend logic to pixel-perfect UI.
+   I build sleek, scalable, and web apps — from backend logic to pixel-perfect UI.
 </p>
 
 ---
